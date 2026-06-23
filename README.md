@@ -15,3 +15,12 @@ Features:
 - Human vs AI
 - Automatic AI moves
 - Win/Loss detection
+
+# Recommendation System
+
+A movie recommendation system using Python.
+
+Features:
+- Genre-based recommendations
+- Simple user input
+- Easy to use
