@@ -7,3 +7,11 @@ Features:
 - Answers basic questions
 - Exits on command
   
+# Tic-Tac-Toe AI
+
+A Tic-Tac-Toe game developed using Python.
+
+Features:
+- Human vs AI
+- Automatic AI moves
+- Win/Loss detection
