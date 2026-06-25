@@ -24,3 +24,10 @@ Features:
 - Genre-based recommendations
 - Simple user input
 - Easy to use
+
+## Repository Structure 
+```text CODSOFT │
+├── README.md
+├── chatbot.py ```
+├── tic-tac-toe.py
+└── recommendation.py
